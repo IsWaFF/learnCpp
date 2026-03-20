@@ -1,4 +1,4 @@
-// day1-1
+// day 1-1
 #include <iostream>
 
 int main() {
