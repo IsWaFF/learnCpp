@@ -1,4 +1,4 @@
-// day 5-1 masives
+// day 7-1 masives
 #include <iostream>
 #include <time.h>
 
