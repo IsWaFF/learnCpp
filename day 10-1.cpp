@@ -17,8 +17,10 @@ int main() {
 
     ifstream file("test.txt");
     if (file.is_open()) {
-        string temp;
-        file >> temp;
+        // string temp;
+        char temp[100];
+        // file >> temp;
+        file.getline(temp, 100);
         file.close();
         cout << temp << endl;
     }
