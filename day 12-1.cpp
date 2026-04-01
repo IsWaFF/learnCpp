@@ -1,6 +1,5 @@
 // day 12-1
 #include <iostream>
-#include <string>
 
 using namespace std;
 
